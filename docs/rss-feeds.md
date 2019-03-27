@@ -29,6 +29,8 @@ Namen **Startseite** trägt.
 Wenn Ihr Eure entsprechende Seite ausgewählt habt, klickt noch den **Speichern**
 Button.
 
+### Ergebnis testen
+
 Das war es schon. Um den Effekt zu sehen, könnt Ihr nun am Fuß jeder Seite nach
 dem kleinen weißen RSS-Icon Ausschau halten, wie hier gezeigt:
 
